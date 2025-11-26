@@ -1,0 +1,176 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Given-Taken",
+    "lyrics_masked": "수많은 stars 수많은 [달] 질문의 [숲속]을 헤매던 나",
+    "answers": [ "달", "숲속" ]
+  },
+  {
+    "id": 2,
+    "title": "Given-Taken",
+    "lyrics_masked": "내 뒤엔 수천 개의 [의심] 내 뒤엔 수만 개의 [불신]",
+    "answers": [ "의심", "불신" ]
+  },
+  {
+    "id": 3,
+    "title": "Flicker",
+    "lyrics_masked": "멀리 있어도 얽혀져 쌍을 이루는 [양자] 같아",
+    "answers": [ "양자" ]
+  },
+  {
+    "id": 4,
+    "title": "Drunk-Dazed",
+    "lyrics_masked": "아름답고 황홀해 반짝이는 내 각막은 [다이아몬드]",
+    "answers": [ "다이아몬드" ]
+  },
+  {
+    "id": 5,
+    "title": "FEVER",
+    "lyrics_masked": "너 때문에 [온몸]이 타올라 너 때문에 [심장]이 목말라",
+    "answers": [ "온몸", "심장" ]
+  },
+  {
+    "id": 6,
+    "title": "Tamed-Dashed",
+    "lyrics_masked": "길들여지면 되나 날 매료한 [욕망]의 그 [섬광]",
+    "answers": [ "욕망", "섬광" ]
+  },
+  {
+    "id": 7,
+    "title": "Tamed-Dashed",
+    "lyrics_masked": "얽히고 설켜진 차원 속에 선택의 [딜레마]",
+    "answers": [ "딜레마" ]
+  },
+  {
+    "id": 8,
+    "title": "모 아니면 도 (Go Big or Go Home)",
+    "lyrics_masked": "내 운명은 [대박] 이런 [근자감] All 아님 Nothing 질러봐",
+    "answers": [ "대박", "근자감" ]
+  },
+  {
+    "id": 9,
+    "title": "Blessed-Cursed",
+    "lyrics_masked": "꺼진 줄 알았어, 내 맘속 타던 [여름]이 달콤한 [입술]로 날 길들인 이  Property",
+    "answers": [ "여름", "입술" ]
+  },
+  {
+    "id": 10,
+    "title": "Blessed-Cursed",
+    "lyrics_masked": "유산같이 건네진 [승리], 조명 뒤에 감춰진 비밀 [마리오네트]의 사각 안에서 춤을 추던 나였어",
+    "answers": [ "승리", "마리오네트" ]
+  },
+  {
+    "id": 11,
+    "title": "Polaroid Love",
+    "lyrics_masked": "왜 사랑에 목매는 건지 어차피 뻔한 [감정]이잖아",
+    "answers": [ "감정" ]
+  },
+  {
+    "id": 12,
+    "title": "Future Perfect (Pass the MIC)",
+    "lyrics_masked": "진짜 내 [목소리]를 꺼내 우리의 [미래]를 그려내",
+    "answers": [ "목소리", "미래" ]
+  },
+  {
+    "id": 13,
+    "title": "ParadoXXX Invasion",
+    "lyrics_masked": "We bump it up, 갖다버려 [라떼] 날 닥치게 만들 나의 new thang",
+    "answers": [ "라떼" ]
+  },
+  {
+    "id": 14,
+    "title": "SHOUT OUT",
+    "lyrics_masked": "[혼자]라면 포기 했겠지 날 가둬둔 그 [벽]에 갇혀 날 부르는 너의 목소리",
+    "answers": [ "혼자", "벽" ]
+  },
+  {
+    "id": 15,
+    "title": "Fate",
+    "lyrics_masked": "절대적인 [힘] 그 힘을 원해 달렸다. 비록 [태양]이 눈을 멀게 할지언정 [약속]된 그곳에 닿기 위해 우리의 [미래]를 완성하기 위해 무엇보다 [너]를 지키기 위해.",
+    "answers": [ "힘", "태양", "약속", "미래", "너" ]
+  },
+  {
+    "id": 16,
+    "title": "Fate",
+    "lyrics_masked": "하지막 [계절]이 초록을 바스러뜨리듯 사랑은 [탐욕]이 되어 스스로를 지워버렸고 [이기심]은 너마저 지워 심해와 같은 [폐허]에 나를 가뒀다.",
+    "answers": [ "계절", "탐욕", "이기심", "폐허" ]
+  },
+  {
+    "id": 17,
+    "title": "Fate",
+    "lyrics_masked": "[망각]. 그 지독한 [저주]가 어디에서 왔는지 잔인한 [형벌]을 가한 것은 누구인지 이제서야 나는 깨달았다. [필멸]을 바쳤던 [운명]을 어떻게 잊을 수 있었단 말인가?",
+    "answers": [ "망각", "저주", "형벌", "필멸", "운명" ]
+  },
+  {
+    "id": 18,
+    "title": "Fate",
+    "lyrics_masked": "[징표]는 오직 너에게만 [반응]해 붉게 빛나고 네게 [간청]했던 그 한마디는 [어둠]을 걷어내는 선명한 [태양]처럼 떠오른다",
+    "answers": [ "징표", "반응", "간청", "어둠", "태양" ]
+  },
+  {
+    "id": 19,
+    "title": "Bite Me",
+    "lyrics_masked": "과거에 버린 내 어리석은 [오만]",
+    "answers": [ "오만" ]
+  },
+  {
+    "id": 20,
+    "title": "Sacrifice (Eat Me Up)",
+    "lyrics_masked": "고통만 남은 [감각] 죽어가는 heart [망각]의 미로 속에 길을 잃은 night",
+    "answers": [ "감각", "망각" ]
+  },
+  {
+    "id": 21,
+    "title": "Chaconne",
+    "lyrics_masked": "춤춰 나를 위해 [영원히] 깨진 [거울] 속 날 보며 발을 맞추지",
+    "answers": [ "영원히", "거울" ]
+  },
+  {
+    "id": 22,
+    "title": "Bills",
+    "lyrics_masked": "[달콤]했던 해방감 [숙제]를 다 끝낸 맘",
+    "answers": [ "달콤", "숙제" ]
+  },
+  {
+    "id": 23,
+    "title": "Mortal",
+    "lyrics_masked": "반드시 오고야 마는 마지막 [불멸]하는 것은 오직 [필멸]뿐",
+    "answers": [ "불멸", "필멸" ]
+  },
+  {
+    "id": 24,
+    "title": "Mortal",
+    "lyrics_masked": "너 없이 [영겁]의 시간을 보낼 바에야 [유한]한 시간 속을 너와 함께 떠돌고 싶다",
+    "answers": [ "영겁", "유한" ]
+  },
+  {
+    "id": 25,
+    "title": "Mortal",
+    "lyrics_masked": "[사랑]이란 [꽃말]처럼 너만이 날 가득 채워",
+    "answers": [ "사랑", "꽃말" ]
+  },
+  {
+    "id": 26,
+    "title": "XO (Only If You Say Yes)",
+    "lyrics_masked": "오직 너만 줄 수 있는 [허락]의 말",
+    "answers": [ "허락" ]
+  },
+  {
+    "id": 27,
+    "title": "Highway 1009",
+    "lyrics_masked": "[사랑]으로 널 데려가 Highway 1009",
+    "answers": [ "사랑" ]
+  },
+  {
+    "id": 28,
+    "title": "No Doubt",
+    "lyrics_masked": "[지옥] 같은 시간에 난 깨달아 낮이 됐건 밤이 됐건 [의심] 없이 I love you",
+    "answers": [ "지옥", "의심" ]
+  },
+  {
+    "id": 29,
+    "title": "Bad Desire (With or Without You)",
+    "lyrics_masked": "널 향한 내 [손]을 막아도 닿을 듯 커다란 저 달이 내 [욕망]을 붉게 물들여",
+    "answers": [ "손", "욕망" ]
+  }
+]

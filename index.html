@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENHYPEN LYRIC CHALLENGE</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Pretendard:wght@400;700&display=swap">
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+</head>
+<body>
+
+    <div id="start-screen" class="screen show">
+        <h1 class="main-title">ENHYPEN<br>LYRIC GAME</h1>
+        <button id="start-btn" class="figma-btn start-style">GAME START</button>
+    </div>
+
+    <div id="game-screen" class="screen hidden">
+        <div class="game-header">
+            <span id="question-count" class="count">1/10</span>
+            
+            <span id="song-title" class="song-title">🎵 Loading...</span>
+            
+            <span id="current-score" class="score">SCORE : 0</span>
+        </div>
+        
+        <div class="divider"></div>
+
+        <div id="lyrics-container" class="lyrics-container">
+            <p>문제를 불러오는 중...</p>
+        </div>
+
+        <div class="controls">
+            <button id="submit-btn" class="figma-btn">정답 확인</button>
+            <p id="message"></p> </div>
+    </div>
+
+    <div id="score-screen" class="screen hidden">
+        <h1 class="result-title">CHALLENGE COMPLETE</h1>
+        <div class="divider"></div>
+        
+        <p class="sub-message">✨ 환상적인 실력! ✨</p>
+        
+        <div class="final-score-box">
+            <p>획득 점수 : <span id="final-score">0</span></p>
+            <p>최종 정확도 : <span id="final-accuracy">0%</span></p>
+        </div>
+
+        <div class="button-group">
+            <button id="restart-btn" class="figma-btn">다시 하기</button>
+            <button id="share-btn" class="figma-btn">결과 공유하기</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
